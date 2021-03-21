@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Satisfy', cursive;
+}
+
+h2{
+  font-family: 'Overpass', sans-serif;
+}
+
+h3{
+  font-family: 'Overpass', sans-serif;
+}
+
+.top-container {
+  background-color: #7c9473;
+  padding-top: 100px;
+  position: relative;
+  height: 100%;
+}
+
+.mid-container {
+  background-color: #cfdac8;
+  width: 200px;
+  height: 200px;
+}
+
+.bot-container {
+  background-color: #e8eae6;
+  width: 200px;
+  height: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bot-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+
+
+.pro {
+  text-decoration: underline;
+}
